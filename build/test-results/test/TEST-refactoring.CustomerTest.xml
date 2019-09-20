@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="refactoring.CustomerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-20T13:37:07" hostname="DESKTOP-6NP5LU5" time="0.025">
+  <properties/>
+  <testcase name="When customer is not senior and already subsidized and not part time then discount is 500" classname="refactoring.CustomerTest" time="0.01"/>
+  <testcase name="When customer is not senior and already subsidized then discount is 250" classname="refactoring.CustomerTest" time="0.0"/>
+  <testcase name="When customer is senior then discount is 0" classname="refactoring.CustomerTest" time="0.0"/>
+  <testcase name="When customer is not senior and already subsidized and part time then discount is 250" classname="refactoring.CustomerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
